@@ -152,3 +152,38 @@ body{
     font-size: 24px;
     font-weight: 900;
 }
+
+#call-board{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vw;
+}
+
+#call{
+    background-color: #3882f6;
+    padding: 3vw 6vw;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 55%;
+}
+
+#call-left button{
+    border: none;
+    background-color: #3882f6;
+    color: #fff;
+    border: #fff 1px solid;
+    padding: 8px;
+    width: 7vw;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#call-title{
+    font-size: 20px;
+    font-weight: bold;
+}
