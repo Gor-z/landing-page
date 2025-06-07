@@ -187,3 +187,13 @@ body{
     font-size: 20px;
     font-weight: bold;
 }
+
+#footer{
+    background-color: #1f2937;
+    color: #f9faf8;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
