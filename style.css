@@ -131,3 +131,24 @@ body{
     border-radius: 10px;
     margin-bottom: 10px;
 }
+
+#quote{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    padding: 4vw 28vw
+}
+
+#quote-text{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+#signature{
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: 900;
+}
